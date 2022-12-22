@@ -18,11 +18,6 @@ I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., 
 
 The objective of this project is to perform customer clustering analysis using unsupervised machine learning. Customer personality analysis helps businesses to understand their customers and makes it easier for them to provide services according to the specific behaviors of each type of customers.
 
-<!-- A/B Testing: Free Trial Screener  -->
-# 
-<img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [A/B Testing: Free Trial Screener](https://github.com/91104311/Portfolio/tree/main/AB%20Testing:%20Free%20Trial%20Screener)
-
-In this project 
 
 <!-- Credit Card Fraud Detection  -->
 # 

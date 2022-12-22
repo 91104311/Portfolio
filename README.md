@@ -16,8 +16,7 @@ In this project
 # 
 <img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Customer Personality Analysis](https://github.com/91104311/Portfolio/tree/main/Customer%20Personality%20Analysis)
 
-In this project 
-
+The objective of this project is to perform clustering analysis to summarize customer personality analysis. Customer personality analysis helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 <!-- A/B Testing: Free Trial Screener  -->
 # 

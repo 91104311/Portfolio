@@ -5,3 +5,5 @@ This repository covers a portfolio of some of my projects that could be publicly
 - LinkedIn: [linkedin.com/in/alinikkhah/](https://www.linkedin.com/in/alinikkhah/)
 
 # Projects
+
+[Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)

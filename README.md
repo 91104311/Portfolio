@@ -10,11 +10,47 @@ This repository covers a portfolio of some of my projects that could be publicly
 
 <img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku
+In this project 
 
 <!-- Customer Personality Analysis  -->
-
 # 
-<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Customer Personality Analysis](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Customer Personality Analysis](https://github.com/91104311/Portfolio/tree/main/Customer%20Personality%20Analysis)
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku
+In this project 
+
+
+<!-- A/B Testing: Free Trial Screener  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [A/B Testing: Free Trial Screener](https://github.com/91104311/Portfolio/tree/main/AB%20Testing:%20Free%20Trial%20Screener)
+
+In this project 
+
+<!-- Credit Card Fraud Detection  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Credit Card Fraud Detection](https://github.com/91104311/Portfolio/tree/main/Credit%20Card%20Fraud%20Detection)
+
+In this project 
+
+<!-- New York Airbnb Price Prediction  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [New York Airbnb Price Prediction](https://github.com/91104311/Portfolio/tree/main/New%20York%20Airbnb%20Price%20Prediction)
+
+In this project 
+
+<!-- Readmission Prediction for Patients with Diabetes  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Readmission Prediction for Patients with Diabetes](https://github.com/91104311/Portfolio/tree/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes)
+
+In this project 
+
+<!-- Movie Recommendation Engine  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Movie Recommendation Engine](https://github.com/91104311/Portfolio/tree/main/Movie%20Recommendation%20Engine)
+
+In this project 
+
+<!-- Sokoban Game  -->
+# 
+<img align="left" width="200" height="100" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Sokoban Game](https://github.com/91104311/alpha_sokoban)
+
+In this project 

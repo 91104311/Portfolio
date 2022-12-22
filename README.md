@@ -3,3 +3,5 @@ This repository covers a portfolio of some of my projects that could be publicly
 
 - Email: ali.nikkhah@uci.edu
 - LinkedIn: [linkedin.com/in/alinikkhah/](https://www.linkedin.com/in/alinikkhah/)
+
+# Projects

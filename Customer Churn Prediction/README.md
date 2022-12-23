@@ -15,8 +15,8 @@ The second dataset (event history data) contain the events triggered 6-12 months
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/1.%20Initialization%20-%20Customer%20Churn%20Prediction.ipynb)
 
-#### 1.1. Import Libraries
-#### 1.2. Loading Data
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
 ### [2. Feature Engineering](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/2.%20Feature%20Engineering%20-%20Customer%20Churn%20Prediction.ipynb)
 

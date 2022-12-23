@@ -1,9 +1,15 @@
 # Customer Churn Prediction
 
 ## Overall Task
-You are a data scientist working for Autodesk and have been tasked by the Sales Team to create a model to predict renewal likelihood (i.e. a retention model). They would like to know how likely to win (at all) each renewal opportunity so they can figure out how to rank the renewal opportunity by risk. After much deliberation, the Sales Team has agreed that for each unique opportunity, they want to know the win probability.
+Create a model to predict renewal likelihood (i.e. a retention model) and to know how likely to win each renewal opportunity in order to rank the renewal opportunity by risk. The final goal is to assign win probability for each unique opportunity.
 
+## Datasets: 
 
+There are two datasets. The first dataset consists of sampled renewal opportunities with renewal date in 04/2020, with each row representing a purchase line item in a renewal opportunity. This dataset came from a snapshot taken on the line items on the opportunity after the opportunity is closed.
+Each opportunity can be uniquely identified by its ID (`renewal_id`). The renewal date (`renewal_date_c`) is populated by the renewal process. The date is supposed to be the earliest start date from the renewal lines that were loaded to the opportunity.
+There could be multiple renewal opportunities under a sales account (`account_id`). An opportunity is then made up of purchase line items. Each purchase line item contains a product code (`product_code`), produce name (`name`), quantity (`quantity`), subscription start date (`start_date_c`), and subscription end date (`end_date_c`). 
+
+The second dataset (event history data) contain the events triggered 6-12 months before the renewal date of an account. Each account may have multiple organizations. Organization can be created for a site geo or a project. An organization is an admin site where user account gets created. Each event is triggered by a user within or outside a project.
 
 # [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/1.%20Initialization%20-%20Customer%20Churn%20Prediction.ipynb)
 

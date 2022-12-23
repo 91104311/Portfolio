@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-## Overall Task
+## Overall Task:
 Create a model to predict renewal likelihood (i.e. a retention model) and to know how likely to win each renewal opportunity in order to rank the renewal opportunity by risk. The final goal is to assign win probability for each unique opportunity.
 
 ## Datasets: 
@@ -10,9 +10,6 @@ Each opportunity can be uniquely identified by its ID (`renewal_id`). The renewa
 There could be multiple renewal opportunities under a sales account (`account_id`). An opportunity is then made up of purchase line items. Each purchase line item contains a product code (`product_code`), produce name (`name`), quantity (`quantity`), subscription start date (`start_date_c`), and subscription end date (`end_date_c`). 
 
 The second dataset (event history data) contain the events triggered 6-12 months before the renewal date of an account. Each account may have multiple organizations. Organization can be created for a site geo or a project. An organization is an admin site where user account gets created. Each event is triggered by a user within or outside a project.
-
-## Scope of the Project: 
-4 hours
 
 ## Table of Contents:
 

@@ -21,7 +21,7 @@ The objective of this project is to perform customer clustering analysis using u
 
 <!-- Credit Card Fraud Detection  -->
 # 
-<img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Credit Card Fraud Detection](https://github.com/91104311/Portfolio/tree/main/Credit%20Card%20Fraud%20Detection)
+<img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/fraud.jpeg"> [Credit Card Fraud Detection](https://github.com/91104311/Portfolio/tree/main/Credit%20Card%20Fraud%20Detection)
 
 In this project, I Created classification models such as Logistic Regression, Neural Network, Random Forests, and Ensemble methods to detect fraudulent behavior based on imbalanced fraudulent credit card transaction datasets.
 

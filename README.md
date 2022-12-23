@@ -8,7 +8,7 @@ This repository covers a portfolio of some of my projects that could be publicly
 
 <!-- Customer Churn Prediction  -->
 
-<img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
+<img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/Churn.jpeg"> [Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
 
 I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., a retention model) in order to rank renewal opportunity by risk that boost long-term customer retention and renewal rate by 20%.
 

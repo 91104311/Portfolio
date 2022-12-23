@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+## Overall Task
+You are a data scientist working for Autodesk and have been tasked by the Sales Team to create a model to predict renewal likelihood (i.e. a retention model). They would like to know how likely to win (at all) each renewal opportunity so they can figure out how to rank the renewal opportunity by risk. After much deliberation, the Sales Team has agreed that for each unique opportunity, they want to know the win probability.
+
+
 
 # [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/1.%20Initialization%20-%20Customer%20Churn%20Prediction.ipynb)
 

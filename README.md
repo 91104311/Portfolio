@@ -43,8 +43,4 @@ I built classification machine learning models to predict if a patient with diab
 
 I developed a movie recommendation system by using demographic filtering, content-based filtering, collaborative filtering, and a hybrid recommender based on over 45,000 movies, 26 million ratings, and over 270,000 users from MovieLens dataset.
 
-<!-- Sokoban Game  -->
-# 
-<img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Sokoban Game](https://github.com/91104311/alpha_sokoban)
 
-In this project 

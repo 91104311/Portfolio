@@ -10,26 +10,25 @@ This repository covers a portfolio of some of my projects that could be publicly
 
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/Churn.jpeg"> [Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
 
-I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., a retention model) in order to rank renewal opportunity by risk that boost long-term customer retention and renewal rate by 20%.
+I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., a retention model) in order to rank renewal opportunity by the risk that boosts long-term customer retention and renewal rate by 20%.
 
 <!-- Customer Personality Analysis  -->
 # 
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/customer.jpeg"> [Customer Personality Analysis](https://github.com/91104311/Portfolio/tree/main/Customer%20Personality%20Analysis)
 
-The objective of this project is to perform customer clustering analysis using unsupervised machine learning. Customer personality analysis helps businesses to understand their customers and makes it easier for them to provide services according to the specific behaviors of each type of customers.
-
+This project aims to perform customer clustering analysis using unsupervised machine learning. Customer personality analysis helps businesses to understand their customers and makes it easier for them to provide services according to the specific behaviors of each type of customer.
 
 <!-- Credit Card Fraud Detection  -->
 # 
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/fraud.jpeg"> [Credit Card Fraud Detection](https://github.com/91104311/Portfolio/tree/main/Credit%20Card%20Fraud%20Detection)
 
-In this project, I Created classification models such as Logistic Regression, Neural Network, Random Forests, and Ensemble methods to detect fraudulent behavior based on imbalanced fraudulent credit card transaction datasets.
+In this project, I created classification models such as Logistic Regression, Neural Networks, Random Forests, and Ensemble methods to detect fraudulent behavior based on imbalanced fraudulent credit card transaction datasets.
 
 <!-- New York Airbnb Price Prediction  -->
 # 
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/Airbnb.jpeg"> [Airbnb Price Prediction](https://github.com/91104311/Portfolio/tree/main/New%20York%20Airbnb%20Price%20Prediction)
 
-The goal of this project is to predict Airbnb prices by deploying Regression machine learning models by using data for listing activities, hosts, geographical availability, and other necessary metrics to make predictions and draw conclusions in NYC, NY for 2019. 
+This project seeks to predict Airbnb prices by deploying Regression machine learning models using data for listing activities, hosts, geographical availability, and other necessary metrics to make predictions and draw conclusions in New York for 2019. 
 
 <!-- Readmission Prediction for Patients with Diabetes  -->
 # 
@@ -41,6 +40,6 @@ I built classification machine learning models to predict if a patient with diab
 # 
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/Movie.jpeg"> [Movie Recommendation Engine](https://github.com/91104311/Portfolio/tree/main/Movie%20Recommendation%20Engine)
 
-I developed a movie recommendation system by using demographic filtering, content-based filtering, collaborative filtering, and a hybrid recommender based on over 45,000 movies, 26 million ratings, and over 270,000 users from MovieLens dataset.
+I developed a movie recommendation system using demographic filtering, content-based filtering, collaborative filtering, and a hybrid recommender based on over 45,000 movies, 26 million ratings, and over 270,000 users from the MovieLens dataset.
 
 

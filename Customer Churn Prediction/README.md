@@ -11,6 +11,9 @@ There could be multiple renewal opportunities under a sales account (`account_id
 
 The second dataset (event history data) contain the events triggered 6-12 months before the renewal date of an account. Each account may have multiple organizations. Organization can be created for a site geo or a project. An organization is an admin site where user account gets created. Each event is triggered by a user within or outside a project.
 
+## Scope of the Project: 
+4 hours
+
 ## Table of Contents:
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/1.%20Initialization%20-%20Customer%20Churn%20Prediction.ipynb)

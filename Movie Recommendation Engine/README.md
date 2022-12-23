@@ -29,3 +29,17 @@ This dataset consists of the following files:
 The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag applications from 270,000 users on all the 45,000 movies in this dataset can be accessed here
 
 ## Table of Contents:
+
+### [1. Initialization]()
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
+
+
+
+### [2. Reccomndation Systems]()
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Demographic Filtering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Content Filtering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Collaborative Filtering
+

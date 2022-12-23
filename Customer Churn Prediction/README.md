@@ -30,6 +30,6 @@
 
 # [4. Forecast](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/4.%20Forecast%20-%20Customer%20Churn%20Prediction.ipynb)
 
-# [5. Summary of the Results]()
+# [5. Summary of the Results](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/Summary%20of%20the%20Results.pdf)
 
 # [6. Future Work](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/5.%20Future%20Work%20-%20Customer%20Churn%20Prediction.ipynb)

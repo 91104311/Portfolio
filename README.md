@@ -35,7 +35,7 @@ The goal of this project is to predict Airbnb prices by deploying Regression mac
 # 
 <img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [Readmission Prediction for Patients with Diabetes](https://github.com/91104311/Portfolio/tree/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes)
 
-In this project 
+I built classification machine learning models to predict if a patient with diabetes will be readmitted to the hospital within 30 days. I utilized models such as Gradient Boosting & AdaBoost, and different techniques such as sampling, hyperparameter tuning, and cross-validation to improve results.
 
 <!-- Movie Recommendation Engine  -->
 # 

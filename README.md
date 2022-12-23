@@ -29,7 +29,7 @@ In this project, I Created classification models such as Logistic Regression, Ne
 # 
 <img align="left" width="240" height="120" src="https://github.com/91104311/Portfolio/blob/main/Images/test.png"> [New York Airbnb Price Prediction](https://github.com/91104311/Portfolio/tree/main/New%20York%20Airbnb%20Price%20Prediction)
 
-The goal of this project is to predict Airbnb prices by deploying Regression machine learning models by using data arount listing activity, hosts, geographical availability, and other necessary metrics to make predictions and draw conclusions in NYC, NY for 2019. 
+The goal of this project is to predict Airbnb prices by deploying Regression machine learning models by using data for listing activities, hosts, geographical availability, and other necessary metrics to make predictions and draw conclusions in NYC, NY for 2019. 
 
 <!-- Readmission Prediction for Patients with Diabetes  -->
 # 

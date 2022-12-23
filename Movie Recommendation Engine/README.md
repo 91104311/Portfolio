@@ -30,14 +30,14 @@ The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag appl
 
 ## Table of Contents:
 
-### [1. Initialization]()
+### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Movie%20Recommendation%20Engine/1.%20Initialization%20-%20Movie%20Recommendation%20Engine.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
 
 
-### [2. Recommendation Systems]()
+### [2. Recommendation Systems](https://github.com/91104311/Portfolio/blob/main/Movie%20Recommendation%20Engine/2.%20Recommendation%20Systems%20-%20Movie%20Recommendation%20Engine.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Demographic Filtering
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Content Filtering

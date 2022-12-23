@@ -37,7 +37,7 @@ The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag appl
 
 
 
-### [2. Reccomndation Systems]()
+### [2. Recommendation Systems]()
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Demographic Filtering
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Content Filtering

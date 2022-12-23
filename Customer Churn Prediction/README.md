@@ -20,25 +20,25 @@ The second dataset (event history data) contain the events triggered 6-12 months
 
 ### [2. Feature Engineering](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/2.%20Feature%20Engineering%20-%20Customer%20Churn%20Prediction.ipynb)
 
-#### 2.1. Opurtunity Table
-#### 2.2. Event Table
-#### 2.3. Combine Two Tables
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Opurtunity Table
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Event Table
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Combine Two Tables
 
 
 ### [3. Modeling](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/3.%20Modeling%20-%20Customer%20Churn%20Prediction.ipynb)
 
-#### 3.1. Splitting
-#### 3.2. Sampling
-#### 3.3. Model Selection
-##### 3.3.1. Catboost
-##### 3.3.2. Logistic Regression
-##### 3.3.3. Random Forest Classifier
-##### 3.3.4. Gradient Boosting
-##### 3.3.5. KNN
-##### 3.3.6. Stochastic Gradient Descent
-##### 3.3.7. Ada Boost Classifier
-#### 3.4. Comparison
-#### 3.5. Most Important Feature Based on Random Forest
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Splitting
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Sampling
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Model Selection
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.1. Catboost
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.2. Logistic Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.3. Random Forest Classifier
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.4. Gradient Boosting
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.5. KNN
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.6. Stochastic Gradient Descent
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.7. Ada Boost Classifier
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Comparison
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Most Important Feature Based on Random Forest
 
 ### [4. Forecast](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/4.%20Forecast%20-%20Customer%20Churn%20Prediction.ipynb)
 

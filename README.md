@@ -14,7 +14,7 @@ This repository covers a portfolio of some of my projects that could be publicly
 This project aims to perform customer clustering analysis using unsupervised machine learning. Customer personality analysis helps businesses to understand their customers and makes it easier for them to provide services according to the specific behaviors of each type of customer.
 
 <!-- Customer Churn Prediction  -->
-
+#
 <img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/Churn.jpeg"> [Customer Churn Prediction](https://github.com/91104311/Portfolio/tree/main/Customer%20Churn%20Prediction)
 
 I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., a retention model) in order to rank renewal opportunity by the risk that boosts long-term customer retention and renewal rate by 20%.

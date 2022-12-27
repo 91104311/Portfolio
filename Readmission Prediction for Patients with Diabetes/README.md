@@ -22,6 +22,6 @@ The data contains such attributes as patient number, race, gender, age, admissio
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
-### [2. Feature Engineering]()
+### [2. Data Preprocessing]()
 
 ### [3. Modeling]()

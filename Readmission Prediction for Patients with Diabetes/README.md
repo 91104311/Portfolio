@@ -17,7 +17,7 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 ## Table of Contents:
 
-### [1. Initialization]()
+### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes/Initialization%20-%20Patients%20Readmission%20Prediction.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data

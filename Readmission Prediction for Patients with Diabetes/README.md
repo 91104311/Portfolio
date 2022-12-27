@@ -19,6 +19,9 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 ### [1. Initialization]()
 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
+
 ### [2. Feature Engineering]()
 
 ### [3. Modeling]()

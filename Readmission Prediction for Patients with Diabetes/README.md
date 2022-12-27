@@ -1,4 +1,4 @@
-# Readmission Prediction for Patients with Diabetes
+# Patients Readmission Prediction
 
 ## Overall Task:
 

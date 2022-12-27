@@ -22,6 +22,11 @@ The data contains such attributes as patient number, race, gender, age, admissio
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
-### [2. Data Preprocessing]()
+### [2. Data Preprocessing](https://github.com/91104311/Portfolio/blob/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes/Data%20Preprocessing%20-%20Patients%20Readmission%20Prediction.ipynb)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Overview of the Dataset
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Duplicate Records
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Missing Values
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Feature Engineering
 
 ### [3. Modeling]()

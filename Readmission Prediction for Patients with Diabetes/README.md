@@ -30,3 +30,17 @@ The data contains such attributes as patient number, race, gender, age, admissio
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Feature Engineering
 
 ### [3. Modeling]()
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Data Splitting and Scaling
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Sampling
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Model Selection
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.1. Naive Bayes
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.2. Logistic Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.3. Stochastic Gradient Descent
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.4. Decision Tree
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.5. Random Forest 
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.6. Gradient Boosting Classifier
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.7. Ada Boost Classifier
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Most Important Feature Based on Random Forest
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Model Comparison
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Hyperparameter Tuning

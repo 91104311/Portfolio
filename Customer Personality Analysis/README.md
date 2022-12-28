@@ -41,13 +41,20 @@ Ploting the Cluster Boundry and Clusters.
 
 
 
-### [3. Modeling]()
+### [4. Clustering]()
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Model Exploration
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.1. Linear Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.2. Ridge Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.3. Random Forest 
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.4. Lasso Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.5. Elastic Net Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.6. XGB Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.7. Huber Regression
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Kmeans
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.2. Agglomerative Clustering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.3. Affinity Clustering Model
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.4. BIRCH Clustering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.5. DBSCAN Clustering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.6. Mini-Batch K-Means
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.7. Mean Shift Clustering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.8. OPTICS Clustering 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.9. Spectral Clustering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.10. Gaussian Mixture Model
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.11. Spectral Clustering
+
+### [5. Profiling]()
+
+

@@ -25,6 +25,11 @@ I delivered a Machine Learning solution to anticipate renewal likelihood (i.e., 
 
 In this project, I created classification models such as Logistic Regression, Neural Networks, Random Forests, and Ensemble methods to detect fraudulent behavior based on imbalanced fraudulent credit card transaction datasets.
 
+<!-- Readmission Prediction for Patients with Diabetes  -->
+# 
+<img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/READMISSION.jpeg"> [Patients Readmission Prediction](https://github.com/91104311/Portfolio/tree/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes)
+
+I built classification machine learning models to predict if a patient with diabetes will be readmitted to the hospital within 30 days. I utilized models such as Gradient Boosting & AdaBoost, and different techniques such as sampling, hyperparameter tuning, and cross-validation to improve results.
 
 <!-- New York Airbnb Price Prediction  -->
 # 
@@ -33,11 +38,6 @@ In this project, I created classification models such as Logistic Regression, Ne
 This project seeks to predict Airbnb prices by deploying Regression machine learning models using data for listing activities, hosts, geographical availability, and other necessary metrics to make predictions and draw conclusions in New York for 2019. 
 
 
-<!-- Readmission Prediction for Patients with Diabetes  -->
-# 
-<img align="left" width="240" height="140" src="https://github.com/91104311/Portfolio/blob/main/Images/READMISSION.jpeg"> [Patients Readmission Prediction](https://github.com/91104311/Portfolio/tree/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes)
-
-I built classification machine learning models to predict if a patient with diabetes will be readmitted to the hospital within 30 days. I utilized models such as Gradient Boosting & AdaBoost, and different techniques such as sampling, hyperparameter tuning, and cross-validation to improve results.
 
 <!-- Movie Recommendation Engine  -->
 # 

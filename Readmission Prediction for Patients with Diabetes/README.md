@@ -41,6 +41,6 @@ The data contains such attributes as patient number, race, gender, age, admissio
 ##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.5. Random Forest 
 ##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.6. Gradient Boosting Classifier
 ##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.7. Ada Boost Classifier
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Most Important Feature Based on Random Forest
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Most Important Features Based on Random Forest
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Model Comparison
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Hyperparameter Tuning

@@ -9,21 +9,21 @@ This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-air
 
 ## Table of Contents:
 
-### [1. Initialization]()
+### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Initialization%20-%20Airbnb%20Price%20Prediction.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
-### [2. Data Preparation]()
+### [2. Data Preparation](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Data%20Preparation%20-%20Airbnb%20Price%20Prediction.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Overview of the Dataset
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Duplicate Records
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Missing Values
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Outliers
 
-### [3. Data Visualization]()
+### [3. Data Visualization](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Data%20Visualization%20-%20Airbnb%20Price%20Prediction.ipynb)
 
-### [4. Feature Engineering]()
+### [4. Feature Engineering](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Feature%20Engineering%20-%20Airbnb%20Price%20Prediction.ipynb)
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Categorical Variables
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.2. Numerical Variables
 ##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4.2.1. Transformation

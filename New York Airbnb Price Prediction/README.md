@@ -14,7 +14,7 @@ This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-air
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
-### [2. DATA PREPARATION]()
+### [2. Data Preparation]()
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Overview of the Dataset
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Duplicate Records
@@ -22,6 +22,13 @@ This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-air
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Outliers
 
 ### [3. Data Visualization]()
+
+### [4. Feature Engineering]()
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Categorical Variables
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4.2. Numerical Variables
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4.2.1. Transformation
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4.2.2. Scaling
+
 
 
 ### [3. Modeling]()

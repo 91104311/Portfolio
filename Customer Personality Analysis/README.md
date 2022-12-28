@@ -9,7 +9,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 
 ## Datasets: 
-This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) contains four different type of attributes incluidng information regarding People, Products, Promotion, and Place. 
+This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) contains four different type of attributes including information regarding People, Products, Promotion, and Place. 
 
 
 

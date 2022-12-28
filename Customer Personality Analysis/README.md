@@ -20,12 +20,12 @@ Selection of Clusters.
 Ploting the Cluster Boundry and Clusters.
 3D Plot of Clusters.
 
-### [1. Initialization]()
+### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Initialization%20-%20Customer%20Personality%20Analysis.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. Import Libraries
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Loading Data
 
-### [2. Data Preparation]()
+### [2. Data Preparation](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Data%20Preparation%20-%20Customer%20Personality%20Analysis.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Overview of the Dataset
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Missing Values
@@ -34,14 +34,14 @@ Ploting the Cluster Boundry and Clusters.
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Data Visualization
 
 
-### [3. Data Preprocessing]()
+### [3. Data Preprocessing](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Data%20Preprocessing%20-%20Customer%20Personality%20Analysis.ipynb)
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Skewness
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Scaling
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Dimensionality Reduction
 
 
 
-### [4. Clustering]()
+### [4. Clustering](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Clustering%20-%20Customer%20Personality%20Analysis.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Kmeans
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.2. Agglomerative Clustering
@@ -55,6 +55,6 @@ Ploting the Cluster Boundry and Clusters.
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.10. Gaussian Mixture Model
 #### &nbsp;&nbsp;&nbsp;&nbsp; 4.11. Spectral Clustering
 
-### [5. Profiling]()
+### [5. Profiling](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Profiling%20-%20Customer%20Personality%20Analysis.ipynb)
 
 

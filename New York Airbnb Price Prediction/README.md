@@ -33,15 +33,13 @@ This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-air
 
 ### [3. Modeling]()
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Splitting
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Sampling
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Model Selection
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.1. Catboost
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.2. Logistic Regression
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.3. Random Forest 
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.4. Gradient Boosting
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.5. KNN
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.6. Stochastic Gradient Descent
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3.7. Ada Boost Classifier
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4. Comparison
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.5. Most Important Feature Based on Random Forest
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Model Exploration
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.1. Linear Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.2. Ridge Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.3. Random Forest 
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.4. Lasso Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.5. Elastic Net Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.6. XGB Regression
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.7. Huber Regression
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Hyperparameter tuning

@@ -37,7 +37,7 @@ Ploting the Cluster Boundry and Clusters.
 ### [3. Data Preprocessing]()
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Skewness
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Scaling
-##### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Dimensionality Reduction
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Dimensionality Reduction
 
 
 

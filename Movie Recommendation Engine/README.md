@@ -26,7 +26,7 @@ This dataset consists of the following files:
 
 - ratings_small.csv: The subset of 100,000 ratings from 700 users on 9,000 movies.
 
-The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag applications from 270,000 users on all the 45,000 movies in this dataset can be accessed here
+The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag applications from 270,000 users on all the 45,000 movies in this dataset can be accessed here.
 
 ## Table of Contents:
 

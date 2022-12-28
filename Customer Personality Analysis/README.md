@@ -1,7 +1,7 @@
 # Customer Personality Analysis
-Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+Customer Personality Analysis is a detailed analysis of a company's ideal customers. It helps a business to understand its customers better. It makes it easier for them to modify products according to the specific needs, behaviors, and concerns of different types of customers.
 
-Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
+Customer personality analysis helps a business modify its product based on its target customers from different customer segments. For example, instead of spending money to market a new product to every customer in the company's database, a company can analyze which customer segment is most likely to buy the product and then market the product only to that particular segment.
 
 ## Overall Task:
 - Perform unsupervised clustering of data on customer records from a grocery firm's database to optimize the significance of each customer to the business
@@ -9,16 +9,12 @@ Customer personality analysis helps a business to modify its product based on it
 
 
 ## Datasets: 
-This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) contains four different type of attributes including information regarding People, Products, Promotion, and Place. 
+This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) contains four different types of attributes, including information regarding People, Products, Promotion, and Place. 
 
 
 
 ## Table of Contents:
 
-Clustering using K-Means.
-Selection of Clusters.
-Ploting the Cluster Boundry and Clusters.
-3D Plot of Clusters.
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Personality%20Analysis/Initialization%20-%20Customer%20Personality%20Analysis.ipynb)
 

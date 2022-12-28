@@ -1,11 +1,11 @@
 # Airbnb Price Prediction
-Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. 
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. 
 
 ## Overall Task:
 Predict Airbnb prices by deploying Regression machine learning models
 
 ## Datasets: 
-This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) describes the listing activity and metrics in NYC, NY for 2019. This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) describes the listing activity and metrics in NYC, NY, for 2019. This data file includes all the needed information to find out more about hosts, geographical availability, and necessary metrics to make predictions and draw conclusions.
 
 ## Table of Contents:
 

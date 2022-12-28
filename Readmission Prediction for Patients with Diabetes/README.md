@@ -2,7 +2,7 @@
 
 ## Overall Task:
 
-Built machine learning models to predict if a patient with diabetes will be readmitted to the hospital within 30 days.
+Build machine learning models to predict if a patient with diabetes will be readmitted to the hospital within 30 days.
 
 ## Datasets: 
 The data that is used in this project originally comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008). The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.

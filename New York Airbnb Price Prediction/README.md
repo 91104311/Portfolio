@@ -31,7 +31,7 @@ This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-air
 
 
 
-### [3. Modeling]()
+### [3. Modeling](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Modeling%20-%20Airbnb%20Price%20Prediction.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Model Exploration
 ##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.1.1. Linear Regression

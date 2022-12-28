@@ -14,9 +14,7 @@ This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-
 
 
 ## Table of Contents:
-Importing Libraries.
-Exploration of data.
-Data Visualization.
+
 Clustering using K-Means.
 Selection of Clusters.
 Ploting the Cluster Boundry and Clusters.
@@ -30,17 +28,16 @@ Ploting the Cluster Boundry and Clusters.
 ### [2. Data Preparation]()
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1. Overview of the Dataset
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Duplicate Records
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Missing Values
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Outliers
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2. Missing Values
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Outliers
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Feature Engineering
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Data Visualization
 
-### [3. Data Visualization]()
 
-### [4. Feature Engineering]()
-#### &nbsp;&nbsp;&nbsp;&nbsp; 4.1. Categorical Variables
-#### &nbsp;&nbsp;&nbsp;&nbsp; 4.2. Numerical Variables
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4.2.1. Transformation
-##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4.2.2. Scaling
+### [3. Data Preprocessing]()
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Skewness
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Scaling
+##### &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3.3. Dimensionality Reduction
 
 
 

@@ -7,6 +7,12 @@ Predict Airbnb prices by deploying Regression machine learning models
 ## Datasets: 
 This [Airbnb dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) describes the listing activity and metrics in NYC, NY, for 2019. This data file includes all the needed information to find out more about hosts, geographical availability, and necessary metrics to make predictions and draw conclusions.
 
+## Summary:
+
+- Predicted Airbnb prices by deploying Linear, Ridge, Lasso, Elastic Net, Random Forest, XGB, and Huber Regression machine learning models
+- Achieved R-squared of 0.83 with Random Forest Regressor by using cross-validation, grid search and randomized search for hyperparameter tuning, regularization, scaling, encoding, and feature engineering 
+
+
 ## Table of Contents:
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/New%20York%20Airbnb%20Price%20Prediction/Initialization%20-%20Airbnb%20Price%20Prediction.ipynb)

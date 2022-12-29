@@ -11,7 +11,7 @@ The second dataset (event history data) contains the events triggered 6-12 month
 
 ## Summary
 
-Achieving AUC=0.82 by applying SMOTE sampling technique and leveraging different models such as CatBoost, Logistic Regression, Random Forest, Gradient Boosting, Stochastic Gradient Descent, AdaBoost, and XGBoost Classifier ![image](https://user-images.githubusercontent.com/74073406/209892531-76030d16-47d4-4d85-b46c-f2b2383b13b0.png)
+Achieving AUC=0.82 by applying SMOTE sampling technique and leveraging different models such as CatBoost, Logistic Regression, Random Forest, Gradient Boosting, Stochastic Gradient Descent, AdaBoost, and XGBoost Classifier.
 
 
 ## Table of Contents:

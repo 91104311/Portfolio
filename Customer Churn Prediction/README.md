@@ -9,6 +9,11 @@ There are two datasets. The first dataset consists of sampled renewal opportunit
 
 The second dataset (event history data) contains the events triggered 6-12 months before the renewal date of an account. Each account may have multiple organizations. Organization can be created for a site geo or a project. An organization is an admin site where a user account gets created. Each event is triggered by a user within or outside a project.
 
+## Summary
+
+Achieving AUC=0.82 by applying SMOTE sampling technique and leveraging different models such as CatBoost, Logistic Regression, Random Forest, Gradient Boosting, Stochastic Gradient Descent, AdaBoost, and XGBoost Classifier ![image](https://user-images.githubusercontent.com/74073406/209892531-76030d16-47d4-4d85-b46c-f2b2383b13b0.png)
+
+
 ## Table of Contents:
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Customer%20Churn%20Prediction/1.%20Initialization%20-%20Customer%20Churn%20Prediction.ipynb)

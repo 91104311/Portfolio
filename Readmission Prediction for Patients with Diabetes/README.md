@@ -15,6 +15,13 @@ The data used in this project originally came from the [UCI Machine Learning Rep
 The data contains such attributes as a patient number, race, gender, age, admission type, time in hospital, the medical specialty of admitting physician, number of lab tests performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatients, inpatient, and emergency visits in the year before the hospitalization, etc.
 
 
+## Summary:
+
+- Built machine learning models to predict readmission rates using different classification algorithms such as Random Forest, Gradient Boosting, Logistic Regression, CatBoost, AdaBoost, and Stochastic Gradient Descent using Python 
+- Utilized different techniques such as sampling, hyperparameter tuning, regularization, and cross-validation to improve results (the best performance: CatBoost with AUC=0.67 and F1 Harmonic=0.41)
+
+
+
 ## Table of Contents:
 
 ### [1. Initialization](https://github.com/91104311/Portfolio/blob/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes/Initialization%20-%20Patients%20Readmission%20Prediction.ipynb)

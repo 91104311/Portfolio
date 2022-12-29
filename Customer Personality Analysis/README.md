@@ -11,6 +11,9 @@ Customer personality analysis helps a business modify its product based on its t
 ## Datasets: 
 This [dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) contains four different types of attributes, including information regarding People, Products, Promotion, and Place. 
 
+## Summary
+
+Profiling customers into multiple clusters according to family structures, education, income, and spending by using dimensionality reduction techniques followed by clustering algorithms including K-Means, Agglomerative Hierarchical Clustering, Affinity Clustering Model, BIRCH, DBSCAN, Mini-Batch K-Means, Mean Shift, OPTICS, Spectral Clustering, and Gaussian Mixture Model.
 
 
 ## Table of Contents:

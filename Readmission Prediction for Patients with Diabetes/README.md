@@ -1,4 +1,5 @@
 # Patients Readmission Prediction
+[Here](https://github.com/91104311/Portfolio/blob/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes/Report%20-%20Readmission%20Prediction%20for%20Patients%20with%20Diabetes.pdf) is the brief report that contains the summary of this project (including results).
 
 ## Overall Task:
 

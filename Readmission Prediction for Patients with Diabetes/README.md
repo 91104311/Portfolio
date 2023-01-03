@@ -36,7 +36,7 @@ The data contains such attributes as a patient number, race, gender, age, admiss
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.3. Missing Values
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Feature Engineering
 
-### [3. Modeling]()
+### [3. Modeling](https://github.com/91104311/Portfolio/blob/main/Readmission%20Prediction%20for%20Patients%20with%20Diabetes/Modeling%20-%20Patients%20Readmission%20Prediction.ipynb)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1. Data Splitting and Scaling
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.2. Sampling
